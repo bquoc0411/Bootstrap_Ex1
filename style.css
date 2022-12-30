@@ -1,0 +1,98 @@
+nav.navbar.navbar-expand-lg.bg-body-tertiary, .bug{
+    background: #372f25;
+}
+li.nav-item a, a.navbar-brand, .btn{
+    color: #d8d2c6;
+    border-color: #d8d2c6;
+}
+
+.img-fluid{
+    max-width: 100%;
+    height: auto
+}
+
+div.des-img{
+    background: #b0aca4;
+    text-align: right;
+    float: right;
+    width: 100%;
+}
+
+div.des-text{
+    width: 50%;
+    display: inline-block;
+    position: relative;
+    bottom: 35rem;
+    left: 3rem;
+    text-align: left;
+}
+h1.des-text{
+    width: 50%;
+    float: left;
+    text-align: left;
+    font-size: 5rem;
+    
+}
+
+div.img{
+    height: 50rem;
+}
+
+img.room{
+    height: 200px;
+    width: 200px;
+    border-radius: 2rem;
+    text-align: center;
+}
+P.room-text{
+    padding-left: 0.5rem;
+    padding-top: 1rem;
+}
+
+h2.sep-title{
+    text-align: center;
+    padding-bottom: 6rem;
+    font-size: 4rem;
+}
+
+.btnn {
+    background: #372f25;
+    background-image: -webkit-linear-gradient(top, #372f25, #372f25);
+    background-image: -moz-linear-gradient(top, #372f25, #372f25);
+    background-image: -ms-linear-gradient(top, #372f25, #372f25);
+    background-image: -o-linear-gradient(top, #372f25, #372f25);
+    background-image: linear-gradient(to bottom, #372f25, #372f25);
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 14px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btnn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, 	#000000, 	#000000);
+    background-image: -moz-linear-gradient(top, 	#000000, 	#000000);
+    background-image: -ms-linear-gradient(top, 	#000000, 	#000000);
+    background-image: -o-linear-gradient(top, 	#000000, 	#000000);
+    background-image: linear-gradient(to bottom, #000000, 	#000000);
+    text-decoration: none;
+  }
+
+.btnn1{
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 10rem;
+}
+
+.bug{
+    color: #d8d2c6;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+
+
